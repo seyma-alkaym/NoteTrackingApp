@@ -14,7 +14,7 @@ Bu uygulama, öğretmenlerin öğrenci notlarını görüntüleyebilecekleri, no
 
    `/api/v1/notes/`
 or
-`/api/v1/notes/?orderBy=note`
+`/api/v1/notes?orderBy=note`
 
 - **Ekleme:** Yeni bir not ekler.
 
