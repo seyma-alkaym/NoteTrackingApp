@@ -55,4 +55,4 @@ or
 
 ### Database
 
-- [Note Tablosu](https://www11.0zz0.com/2024/02/14/20/980797053.png)
+- [Note Tablosu](/Screenshots/NoteTable.PNG)
