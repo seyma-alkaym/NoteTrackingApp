@@ -48,10 +48,21 @@ or
 
 ### Frontend
 
-- ![Listeleme Sayfası](/Screenshots/ListPage.PNG)
-- ![Ekleme Sayfası](/Screenshots/AddPage.PNG)
-- ![Detay Popup'ı](/Screenshots/DetailPopup.PNG)
-- ![Delete Modal](/Screenshots/DeleteModal.PNG)
+- **Listeleme Sayfası**
+  
+  ![Listeleme Sayfası](/Screenshots/ListPage.PNG)
+  
+- **Ekleme Sayfası**
+
+  ![Ekleme Sayfası](/Screenshots/AddPage.PNG)
+  
+- **Detay Popup'ı**
+  
+  ![Detay Popup'ı](/Screenshots/DetailPopup.PNG)
+  
+- **Delete Modal**
+
+  ![Delete Modal](/Screenshots/DeleteModal.PNG)
 
 ### Database
 
